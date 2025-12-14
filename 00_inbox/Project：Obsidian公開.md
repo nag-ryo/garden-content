@@ -74,3 +74,13 @@
 		- garden-content
 	- iCloudのgarden-contentはgit管理する。macでgit commit && git push
 	- GithubActionsでCI/CD
+- Githubにそれぞれリポジトリは作った。
+- garden-quartzでactionsを入れる。
+	- まずはビルドまで。
+	- 流れ
+		- garden-quartzをcheckout
+		- garden-contentをcheckout
+		- garden-quartz/content/ を garden-content で置き換え
+		- npx quartz build
+		- （あとで）ラズパイへデプロイ
+- 
