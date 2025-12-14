@@ -83,4 +83,4 @@
 		- garden-quartz/content/ を garden-content で置き換え
 		- npx quartz build
 		- （あとで）ラズパイへデプロイ
-- 
+- [[Obsidianをラズパイで配信]]
