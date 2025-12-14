@@ -1,0 +1,44 @@
+## 概要
+[[JavaScript]]に対して、使っても使わなくてもいい静的型付けとクラスベース[[オブジェクト指向]]を加えた[[スーパーセット]]。
+## MOC
+- 📚ドキュメント
+- 📒関連
+	- [[TypeScriptリリースノート]]
+	- [[TypeScriptの学習ソース]]
+	- [TypeScript - Wikipedia](https://ja.wikipedia.org/wiki/TypeScript)
+	- [リリースノート](https://github.com/Microsoft/TypeScript/releases)
+- 📖ノウハウ
+	- [[JS・TS ロジックリスト]]
+	- [[TypeScriptのリリースノートの追い方]]
+	- [[共通の処理を持たせるためだけにスーパークラスは作ってはいけない]]
+	- [[クラスのメンバのデフォルト値を設定する方法の基準]]
+	- [[getterとsetterは外部からprivateにアクセスするために使う]]
+	- [[TypeScriptでfilterの頭にawaitを置いても同期はしないので注意]]
+	- [[TypeScriptのArrayメソッドで非同期処理]]
+	- [[TypeScript 安易なasyncは死を招く]]
+	- [[TypeScript 連想配列でオブジェクトのマッピング]]
+	- [[QRコードを生成するにはZXing]]
+	- [[TypeScript readonlyに代入するのは基本的に無理]]
+	- [[TypeScript 文字列の真偽値をbooleanにするにはJSON.parse]]
+	- [[関数の引数でオブジェクトを設定した場合はオブジェクトのkeyは省略できる]]
+	- [[TSの配列アクセスでundefined考慮]]
+	- [[TypeScript 型変換ロジック]]
+	- [[確実に入っているとは言えないなら、型指定にPartialを指定する]]
+	- [[別にブラケット記法でも問題ない]]
+	- [[関数はvoesフォルダに入れたくない]]
+	- [[交差型]]
+	- [[Promise.allとmap]]
+	- 列挙体
+		- [[TypeScriptで列挙型で型指定するときの注意点]]
+		- [[enumの中身でArrayメソッドを使いたいときはObject.values]]
+		- [[enumとdecorator]]
+- 💁‍♀️トラブルシューティング
+	- [[TypeScriptでgetterとasyncを同時に書くとエラーになる]]
+	- [[TypeScriptの列挙体同士で結合などの操作をしたい]]
+	- [[TypeScriptでErrorインスタンスをJSON.stringify()すると空オブジェクトの文字列になる]]
+	- [[TypeScriptの列挙子では数値は扱えない]]
+	- [[error TS2533 Object is possibly 'null' or 'undefined']]
+- 🗃️用語定義
+	- [[Node.js]]
+	- [[JavaScript]]
+	- ミックスイン
