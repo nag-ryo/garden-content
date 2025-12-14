@@ -5,4 +5,5 @@
 ## Entrance
 
 [[現在のObsidianの運用方針]]
+## Project
 [[Project：Obsidian公開]]
