@@ -1,0 +1,21 @@
+name: Trigger Quartz Build
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger garden-quartz Build Quartz
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.QUARTZ_REPO_DISPATCH_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'nag-ryo',
+              repo: 'garden-quartz',
+              workflow_id: 'build.yml',
+              ref: 'main'
+            })
