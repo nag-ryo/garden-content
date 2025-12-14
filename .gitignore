@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+
+# OS
+.DS_Store
+
+# 一時ファイル
+*.tmp
+*.swp
