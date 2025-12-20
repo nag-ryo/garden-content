@@ -7,6 +7,7 @@
 
 - [[現在のObsidianの運用方針]]
 - [[TypeScript]]
+- [[電子工学]]
 ## Project
 [[Project：Obsidian公開]]
 
