@@ -1,4 +1,6 @@
-アルディーノと読む。
+読み方は「アルドゥイーノ」
+イーにアクセントを置くらしい。
+参考：https://note.com/shingo_shirogane/n/n4cc43c81dbb9
 
 ## MOC
 - [[Arduinoの注意点]]
