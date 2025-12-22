@@ -8,3 +8,4 @@
 - [[Arduinoに可変抵抗を入力する]]
 - [[ArduinoでRC回路]]
 - [[Arduinoのピンの意味]]
+- [[脚を上げ下げするとArduinoのオレンジLEDが明滅する！]]
