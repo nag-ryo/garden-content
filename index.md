@@ -6,6 +6,7 @@
 ## Entrance
 
 - [[現在のObsidianの運用方針]]
+- [[ブロックチェーン]]
 - [[TypeScript]]
 - [[電子工学]]
 ## Project

@@ -5,7 +5,5 @@
 ## MOC
 - [[Arduinoの注意点]]
 - [[Arduinoのコード]]
-- [[Arduinoに可変抵抗を入力する]]
-- [[実験：ArduinoでRC回路]]
 - [[Arduinoのピンの意味]]
 - [[脚を上げ下げするとArduinoのオレンジLEDが明滅する！]]
