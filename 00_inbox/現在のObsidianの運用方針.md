@@ -1,5 +1,5 @@
 #note
-## Obsidianへの機能追加は避ける
+## Obsidianへの拡張機能追加はできるだけ避ける
 
 4年間Obsidianを毎日使って思ったことは、Obsidianを使うための機能を、Obsidianに依存しないこと。
 モバイル端末からObsidianが起動できなくなったり、Obsidianから次のツールへ移行することも難しくなる。
