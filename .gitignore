@@ -8,3 +8,5 @@
 # 一時ファイル
 *.tmp
 *.swp
+
+_private
